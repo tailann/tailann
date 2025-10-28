@@ -133,7 +133,7 @@ Me chamo Tailan, sou natural do Ceará, e curso Sistemas de Informação da facu
 
 
 ### 📊 Estatísticas
-<pa lign="left">
+<p>
  <img
     align="left" 
     alt="GitHub Stats" 
