@@ -2,7 +2,7 @@
 
 **`Estudando de tecnologia`**
 
-Me chamo Tailan, sou natural do Ceará, e curso Sistemas de Informação da faculdade Unicatolica-CE
+Me chamo Tailan, sou natural do Ceará, e curso Sistemas de Informação na faculdade Unicatolica-CE
 
 <p align="left">
     <div> 
