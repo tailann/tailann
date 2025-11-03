@@ -75,8 +75,6 @@ Me chamo Tailan, sou natural do Ceará, e curso Sistemas de Informação na facu
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   
-
-  
   <img 
     align="left" 
     alt="Docker" 
@@ -85,15 +83,7 @@ Me chamo Tailan, sou natural do Ceará, e curso Sistemas de Informação na facu
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     
-  <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-  
   <img 
   align="left" 
     alt="Streamlit" 
